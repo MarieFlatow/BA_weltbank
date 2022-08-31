@@ -1,0 +1,267 @@
+,Country Name,Type
+0,Africa Eastern and Southern,Region
+1,Africa Western and Central,Region
+2,Arab World,Region
+3,Caribbean small states,Region
+4,Central Europe and the Baltics,Region
+5,Early-demographic dividend,Region
+6,East Asia & Pacific,Region
+7,East Asia & Pacific (excluding high income),Region
+8,East Asia & Pacific (IDA & IBRD countries),Region
+9,Euro area,Region
+10,Europe & Central Asia,Region
+11,Europe & Central Asia (excluding high income),Region
+12,Europe & Central Asia (IDA & IBRD countries),Region
+13,European Union,Region
+14,Fragile and conflict affected situations,Region
+15,Heavily indebted poor countries (HIPC),Region
+16,High income,Region
+17,IBRD only,Region
+18,IDA & IBRD total,Region
+19,IDA blend,Region
+20,IDA only,Region
+21,IDA total,Region
+22,Late-demographic dividend,Region
+23,Latin America & Caribbean,Region
+24,Latin America & Caribbean (excluding high income),Region
+25,Latin America & the Caribbean (IDA & IBRD countries),Region
+26,Least developed countries: UN classification,Region
+27,Low & middle income,Region
+28,Low income,Region
+29,Lower middle income,Region
+30,Middle East & North Africa,Region
+31,Middle East & North Africa (excluding high income),Region
+32,Middle East & North Africa (IDA & IBRD countries),Region
+33,Middle income,Region
+34,North America,Region
+35,Not classified,Region
+36,OECD members,Region
+37,Other small states,Region
+38,Pacific island small states,Region
+39,Post-demographic dividend,Region
+40,Pre-demographic dividend,Region
+41,Small states,Region
+42,South Asia,Region
+43,South Asia (IDA & IBRD),Region
+44,Sub-Saharan Africa,Region
+45,Sub-Saharan Africa (excluding high income),Region
+46,Sub-Saharan Africa (IDA & IBRD countries),Region
+47,Upper middle income,Region
+48,World,Region
+49,Afghanistan,UN member country
+50,Albania,UN member country
+51,Algeria,UN member country
+52,American Samoa,Other
+53,Andorra,UN member country
+54,Angola,UN member country
+55,Antigua and Barbuda,UN member country
+56,Argentina,UN member country
+57,Armenia,UN member country
+58,Aruba,Other
+59,Australia,UN member country
+60,Austria,UN member country
+61,Azerbaijan,UN member country
+62,"Bahamas, The",UN member country
+63,Bahrain,UN member country
+64,Bangladesh,UN member country
+65,Barbados,UN member country
+66,Belarus,UN member country
+67,Belgium,UN member country
+68,Belize,UN member country
+69,Benin,UN member country
+70,Bermuda,Other
+71,Bhutan,UN member country
+72,Bolivia,UN member country
+73,Bosnia and Herzegovina,UN member country
+74,Botswana,UN member country
+75,Brazil,UN member country
+76,British Virgin Islands,Other
+77,Brunei Darussalam,UN member country
+78,Bulgaria,UN member country
+79,Burkina Faso,UN member country
+80,Burundi,UN member country
+81,Cabo Verde,UN member country
+82,Cambodia,UN member country
+83,Cameroon,UN member country
+84,Canada,UN member country
+85,Cayman Islands,Other
+86,Central African Republic,UN member country
+87,Chad,UN member country
+88,Channel Islands,Other
+89,Chile,UN member country
+90,China,UN member country
+91,Colombia,UN member country
+92,Comoros,UN member country
+93,"Congo, Dem. Rep.",UN member country
+94,"Congo, Rep.",UN member country
+95,Costa Rica,UN member country
+96,Cote d'Ivoire,UN member country
+97,Croatia,UN member country
+98,Cuba,UN member country
+99,Curacao,Other
+100,Cyprus,UN member country
+101,Czech Republic,UN member country
+102,Denmark,UN member country
+103,Djibouti,UN member country
+104,Dominica,UN member country
+105,Dominican Republic,UN member country
+106,Ecuador,UN member country
+107,"Egypt, Arab Rep.",UN member country
+108,El Salvador,UN member country
+109,Equatorial Guinea,UN member country
+110,Eritrea,UN member country
+111,Estonia,UN member country
+112,Eswatini,UN member country
+113,Ethiopia,UN member country
+114,Faroe Islands,Other
+115,Fiji,UN member country
+116,Finland,UN member country
+117,France,UN member country
+118,French Polynesia,Other
+119,Gabon,UN member country
+120,"Gambia, The",UN member country
+121,Georgia,UN member country
+122,Germany,UN member country
+123,Ghana,UN member country
+124,Gibraltar,Other
+125,Greece,UN member country
+126,Greenland,Other
+127,Grenada,UN member country
+128,Guam,Other
+129,Guatemala,UN member country
+130,Guinea,UN member country
+131,Guinea-Bissau,UN member country
+132,Guyana,UN member country
+133,Haiti,UN member country
+134,Honduras,UN member country
+135,"Hong Kong SAR, China",Other
+136,Hungary,UN member country
+137,Iceland,UN member country
+138,India,UN member country
+139,Indonesia,UN member country
+140,"Iran, Islamic Rep.",UN member country
+141,Iraq,UN member country
+142,Ireland,UN member country
+143,Isle of Man,Other
+144,Israel,UN member country
+145,Italy,UN member country
+146,Jamaica,UN member country
+147,Japan,UN member country
+148,Jordan,UN member country
+149,Kazakhstan,UN member country
+150,Kenya,UN member country
+151,Kiribati,UN member country
+152,"Korea, Dem. People's Rep.",UN member country
+153,"Korea, Rep.",UN member country
+154,Kosovo,Other
+155,Kuwait,UN member country
+156,Kyrgyz Republic,UN member country
+157,Lao PDR,UN member country
+158,Latvia,UN member country
+159,Lebanon,UN member country
+160,Lesotho,UN member country
+161,Liberia,UN member country
+162,Libya,UN member country
+163,Liechtenstein,UN member country
+164,Lithuania,UN member country
+165,Luxembourg,UN member country
+166,"Macao SAR, China",Other
+167,Madagascar,UN member country
+168,Malawi,UN member country
+169,Malaysia,UN member country
+170,Maldives,UN member country
+171,Mali,UN member country
+172,Malta,UN member country
+173,Marshall Islands,UN member country
+174,Mauritania,UN member country
+175,Mauritius,UN member country
+176,Mexico,UN member country
+177,"Micronesia, Fed. Sts.",UN member country
+178,Moldova,UN member country
+179,Monaco,UN member country
+180,Mongolia,UN member country
+181,Montenegro,UN member country
+182,Morocco,UN member country
+183,Mozambique,UN member country
+184,Myanmar,UN member country
+185,Namibia,UN member country
+186,Nauru,UN member country
+187,Nepal,UN member country
+188,Netherlands,UN member country
+189,New Caledonia,Other
+190,New Zealand,UN member country
+191,Nicaragua,UN member country
+192,Niger,UN member country
+193,Nigeria,UN member country
+194,North Macedonia,UN member country
+195,Northern Mariana Islands,Other
+196,Norway,UN member country
+197,Oman,UN member country
+198,Pakistan,UN member country
+199,Palau,UN member country
+200,Panama,UN member country
+201,Papua New Guinea,UN member country
+202,Paraguay,UN member country
+203,Peru,UN member country
+204,Philippines,UN member country
+205,Poland,UN member country
+206,Portugal,UN member country
+207,Puerto Rico,Other
+208,Qatar,UN member country
+209,Romania,UN member country
+210,Russian Federation,UN member country
+211,Rwanda,UN member country
+212,Samoa,UN member country
+213,San Marino,UN member country
+214,Sao Tome and Principe,UN member country
+215,Saudi Arabia,UN member country
+216,Senegal,UN member country
+217,Serbia,UN member country
+218,Seychelles,UN member country
+219,Sierra Leone,UN member country
+220,Singapore,UN member country
+221,Sint Maarten (Dutch part),Other
+222,Slovak Republic,UN member country
+223,Slovenia,UN member country
+224,Solomon Islands,UN member country
+225,Somalia,UN member country
+226,South Africa,UN member country
+227,South Sudan,UN member country
+228,Spain,UN member country
+229,Sri Lanka,UN member country
+230,St. Kitts and Nevis,UN member country
+231,St. Lucia,UN member country
+232,St. Martin (French part),Other
+233,St. Vincent and the Grenadines,UN member country
+234,Sudan,UN member country
+235,Suriname,UN member country
+236,Sweden,UN member country
+237,Switzerland,UN member country
+238,Syrian Arab Republic,UN member country
+239,Tajikistan,UN member country
+240,Tanzania,UN member country
+241,Thailand,UN member country
+242,Timor-Leste,UN member country
+243,Togo,UN member country
+244,Tonga,UN member country
+245,Trinidad and Tobago,UN member country
+246,Tunisia,UN member country
+247,Turkey,UN member country
+248,Turkmenistan,UN member country
+249,Turks and Caicos Islands,Other
+250,Tuvalu,UN member country
+251,Uganda,UN member country
+252,Ukraine,UN member country
+253,United Arab Emirates,UN member country
+254,United Kingdom,UN member country
+255,United States,UN member country
+256,Uruguay,UN member country
+257,Uzbekistan,UN member country
+258,Vanuatu,UN member country
+259,"Venezuela, RB",UN member country
+260,Vietnam,UN member country
+261,Virgin Islands (U.S.),Other
+262,West Bank and Gaza,Other
+263,"Yemen, Rep.",UN member country
+264,Zambia,UN member country
+265,Zimbabwe,UN member country
