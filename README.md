@@ -11,10 +11,7 @@ additional_data.
 ## Quellen:
 
 WDI Daten:
-
 Weltbank (2022), "World Development Indicators", ULR (Download 20.04.2022) https://datacatalog.worldbank.org/search/dataset/0037712.
 
-
 UN Mitgliedsländer (verwendet für additional_data/countries.csv):
-
 UN (2022), "Member States", ULR (aufgerufen 02.06.2022): https://www.un.org/en/about-us/member-states.
