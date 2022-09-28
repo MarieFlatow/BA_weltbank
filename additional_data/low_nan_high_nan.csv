@@ -1,0 +1,833 @@
+Topic description;indicators;nan;n
+Social: population;Population, total;3;5211
+Social: population;Population growth (annual %);6;5208
+Agriculture;Land area (sq. km);24;5190
+Environment: general;Population density (people per sq. km of land area);27;5187
+Social: population;Population ages 65 and above (% of total population);31;5183
+Social: population;Population ages 0-14 (% of total population);31;5183
+Social: population;Population ages 10-14, male (% of male population);31;5183
+Social: labor;Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate);31;5183
+Social: population;Population ages 15-19, female (% of female population);31;5183
+Social: population;Population ages 25-29, female (% of female population);31;5183
+Social: population;Population ages 20-24, male (% of male population);31;5183
+Social: labor;Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate);31;5183
+Social: population;Population ages 20-24, female (% of female population);31;5183
+Social: population;Population, male (% of total population);31;5183
+Social: population;Population ages 75-79, male (% of male population);31;5183
+Social: population;Population ages 80 and above, female (% of female population);31;5183
+Social: population;Population ages 75-79, female (% of female population);31;5183
+Social: population;Population ages 80 and above, male (% of male population);31;5183
+Social: population;Population ages 15-64, male (% of male population);31;5183
+Social: population;Population ages 15-19, male (% of male population);31;5183
+Social: labor;Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate);31;5183
+Social: population;Population, female (% of total population);31;5183
+Social: population;Population ages 15-64 (% of total population);31;5183
+Social: labor;Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate);31;5183
+Social: labor;Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate);31;5183
+Social: population;Population ages 15-64, female (% of female population);31;5183
+Social: labor;Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate);31;5183
+Social: population;Population ages 0-14, female (% of female population);31;5183
+Social: population;Population ages 0-14, male (% of male population);31;5183
+Social: population;Population ages 70-74, male (% of male population);31;5183
+Social: population;Population ages 00-04, female (% of female population);31;5183
+Social: population;Population ages 30-34, female (% of female population);31;5183
+Social: population;Population ages 65 and above, female (% of female population);31;5183
+Social: population;Population ages 60-64, male (% of male population);31;5183
+Social: population;Population ages 60-64, female (% of female population);31;5183
+Social: population;Population ages 55-59, male (% of male population);31;5183
+Social: population;Population ages 55-59, female (% of female population);31;5183
+Social: population;Population ages 50-54, male (% of male population);31;5183
+Social: population;Rural population (% of total population);31;5183
+Social: population;Population ages 50-54, female (% of female population);31;5183
+Social: population;Population ages 45-49, male (% of male population);31;5183
+Social: labor;Ratio of female to male labor force participation rate (%) (modeled ILO estimate);31;5183
+Social: population;Population ages 65 and above, male (% of male population);31;5183
+Social: population;Population ages 25-29, male (% of male population);31;5183
+Social: population;Urban population (% of total population);31;5183
+Social: population;Population ages 05-09, female (% of female population);31;5183
+Social: population;Population ages 00-04, male (% of male population);31;5183
+Social: population;Population ages 05-09, male (% of male population);31;5183
+Social: population;Population ages 70-74, female (% of female population);31;5183
+Social: population;Population ages 65-69, male (% of male population);31;5183
+Social: population;Population ages 30-34, male (% of male population);31;5183
+Social: population;Population ages 35-39, male (% of male population);31;5183
+Social: population;Population ages 10-14, female (% of female population);31;5183
+Social: population;Population ages 35-39, female (% of female population);31;5183
+Social: population;Population ages 40-44, male (% of male population);31;5183
+Social: population;Population ages 45-49, female (% of female population);31;5183
+Social: population;Population ages 65-69, female (% of female population);31;5183
+Social: population;Population ages 40-44, female (% of female population);31;5183
+Social: population;Population, male;34;5180
+Social: population;Population ages 0-14, total;34;5180
+Social: population;Population ages 15-64, female;34;5180
+Social: population;Population, female;34;5180
+Social: population;Rural population;34;5180
+Social: labor;Labor force, female (% of total labor force);34;5180
+Social: population;Population ages 0-14, male;34;5180
+Social: population;Population ages 0-14, female;34;5180
+Social: labor;Labor force, total;34;5180
+Social: population;Population ages 65 and above, female;34;5180
+Social: population;Urban population;34;5180
+Social: population;Population ages 15-64, total;34;5180
+Social: population;Population ages 15-64, male;34;5180
+Social: population;Age dependency ratio, young (% of working-age population);34;5180
+Social: population;Age dependency ratio (% of working-age population);34;5180
+Social: population;Age dependency ratio, old (% of working-age population);34;5180
+Social: population;Population ages 65 and above, total;34;5180
+Social: population;Population ages 65 and above, male;34;5180
+Social: population;Urban population growth (annual %);36;5178
+Social: education;Primary school starting age (years);48;5166
+Social: education;Primary education, duration (years);48;5166
+Social: education;Lower secondary school starting age (years);57;5157
+Social: education;Secondary education, duration (years);57;5157
+Social: health;Mortality rate, under-5, female (per 1,000 live births);93;5121
+Social: health;Number of infant deaths;93;5121
+Social: health;Number of neonatal deaths;93;5121
+Social: health;Number of under-five deaths;93;5121
+Social: health;Probability of dying among adolescents ages 10-14 years (per 1,000);93;5121
+Social: health;Probability of dying among adolescents ages 15-19 years (per 1,000);93;5121
+Social: health;Probability of dying among children ages 5-9 years (per 1,000);93;5121
+Social: health;Number of deaths ages 20-24 years;93;5121
+Social: health;Mortality rate, under-5, male (per 1,000 live births);93;5121
+Social: health;Number of deaths ages 5-9 years;93;5121
+Social: gender;Women Business and the Law Index Score (scale 1-100);93;5121
+Social: health;Mortality rate, under-5 (per 1,000 live births);93;5121
+Social: health;Number of deaths ages 15-19 years;93;5121
+Social: health;Probability of dying among youth ages 20-24 years (per 1,000);93;5121
+Social: health;Mortality rate, neonatal (per 1,000 live births);93;5121
+Social: population;Mortality rate, infant (per 1,000 live births);93;5121
+Social: population;Mortality rate, infant, male (per 1,000 live births);93;5121
+Social: population;Mortality rate, infant, female (per 1,000 live births);93;5121
+Social: health;Number of deaths ages 10-14 years;93;5121
+Agriculture;Forest area (sq. km);100;5114
+Agriculture;Forest area (% of land area);102;5112
+Social: population;Rural population growth (annual %);114;5100
+Infrastructure: telecommunications;Mobile cellular subscriptions;142;5072
+Prices: period average;DEC alternative conversion factor (LCU per US$);142;5072
+Infrastructure: telecommunications;Mobile cellular subscriptions (per 100 people);143;5071
+National accounts: income;Adjusted savings: mineral depletion (current US$);158;5056
+Infrastructure: telecommunications;Fixed telephone subscriptions (per 100 people);161;5053
+Infrastructure: telecommunications;Fixed telephone subscriptions;161;5053
+Social: population;Death rate, crude (per 1,000 people);162;5052
+Social: population;Birth rate, crude (per 1,000 people);162;5052
+Social: population;Fertility rate, total (births per woman);165;5049
+Social: population;Life expectancy at birth, male (years);166;5048
+Social: population;Life expectancy at birth, female (years);166;5048
+Social: population;Life expectancy at birth, total (years);166;5048
+Social: labor;Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate);188;5026
+Social: population;Survival to age 65, female (% of cohort);188;5026
+Social: labor;Employment to population ratio, 15+, female (%) (modeled ILO estimate);188;5026
+Social: population;Adolescent fertility rate (births per 1,000 women ages 15-19);188;5026
+Social: labor;Unemployment, male (% of male labor force) (modeled ILO estimate);188;5026
+Social: labor;Employment to population ratio, 15+, male (%) (modeled ILO estimate);188;5026
+Social: labor;Employment to population ratio, 15+, total (%) (modeled ILO estimate);188;5026
+Social: labor;Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate);188;5026
+Social: labor;Unemployment, total (% of total labor force) (modeled ILO estimate);188;5026
+Social: labor;Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate);188;5026
+Social: population;Survival to age 65, male (% of cohort);188;5026
+Social: labor;Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate);188;5026
+Social: labor;Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate);188;5026
+Social: labor;Unemployment, female (% of female labor force) (modeled ILO estimate);188;5026
+Social: labor;Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate);188;5026
+Social: labor;Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate);188;5026
+Social: labor;Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate);188;5026
+Social: labor;Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate);188;5026
+National accounts: income;GDP (current LCU);189;5025
+National accounts: income;GDP per capita (current LCU);192;5022
+National accounts: income;Adjusted savings: energy depletion (current US$);194;5020
+National accounts: income;GDP (current US$);203;5011
+National accounts: income;GDP per capita (current US$);206;5008
+Balance of payments: exports, receipts (debit);Foreign direct investment, net inflows (BoP, current US$);210;5004
+National accounts: income;GDP (constant LCU);218;4996
+National accounts: income;GDP deflator (base year varies by country);219;4995
+National accounts: income;GDP deflator: linked series (base year varies by country);220;4994
+National accounts: income;GDP: linked series (current LCU);220;4994
+National accounts: income;GDP per capita (constant LCU);221;4993
+Trade: imports;Merchandise imports (current US$);236;4978
+Trade: exports;Merchandise exports (current US$);237;4977
+Social: population;Mortality rate, adult, female (per 1,000 female adults);242;4972
+Social: population;Mortality rate, adult, male (per 1,000 male adults);242;4972
+National accounts: income;GDP (constant 2015 US$);244;4970
+National accounts: income;Inflation, GDP deflator: linked series (annual %);245;4969
+National accounts: income;GDP per capita (constant 2015 US$);247;4967
+Environment: general;Population in largest city;248;4966
+National accounts: income;GDP growth (annual %);250;4964
+Environment: general;Population in the largest city (% of urban population);251;4963
+National accounts: income;Inflation, GDP deflator (annual %);252;4962
+National accounts: income;GDP per capita growth (annual %);253;4961
+Prices: period average;PPP conversion factor, GDP (LCU per international $);267;4947
+National accounts: income;Adjusted savings: carbon dioxide damage (current US$);273;4941
+Prices: period average;Price level ratio of PPP conversion factor (GDP) to market exchange rate;285;4929
+National accounts: income;GDP, PPP (current international $);290;4924
+National accounts: income;GDP per capita, PPP (current international $);293;4921
+National accounts: income;GNI (current LCU);293;4921
+National accounts: income;GNI per capita (current LCU);296;4918
+National accounts: income;GNI (current US$);302;4912
+National accounts: income;Adjusted savings: education expenditure (% of GNI);308;4906
+National accounts: income;GNI: linked series (current LCU);317;4897
+Balance of payments: exports, receipts (debit);Foreign direct investment, net inflows (% of GDP);334;4880
+Trade: gross;Merchandise trade (% of GDP);336;4878
+National accounts: income;GDP, PPP (constant 2017 international $);342;4872
+Social: labor;Contributing family workers, female (% of female employment) (modeled ILO estimate);345;4869
+Social: labor;Employers, female (% of female employment) (modeled ILO estimate);345;4869
+National accounts: income;GDP per capita, PPP (constant 2017 international $);345;4869
+Social: labor;Employers, male (% of male employment) (modeled ILO estimate);345;4869
+Social: labor;Vulnerable employment, female (% of female employment) (modeled ILO estimate);345;4869
+Social: labor;Vulnerable employment, male (% of male employment) (modeled ILO estimate);345;4869
+Social: labor;Vulnerable employment, total (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Wage and salaried workers, female (% of female employment) (modeled ILO estimate);345;4869
+Social: labor;Wage and salaried workers, male (% of male employment) (modeled ILO estimate);345;4869
+Social: labor;Wage and salaried workers, total (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Contributing family workers, male (% of male employment) (modeled ILO estimate);345;4869
+Social: labor;Contributing family workers, total (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in industry, female (% of female employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in services (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in agriculture, female (% of female employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in services, male (% of male employment) (modeled ILO estimate);345;4869
+Social: labor;Self-employed, female (% of female employment) (modeled ILO estimate);345;4869
+Social: labor;Self-employed, male (% of male employment) (modeled ILO estimate);345;4869
+Social: labor;Employers, total (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Self-employed, total (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in agriculture (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in industry, male (% of male employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in services, female (% of female employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in industry (% of total employment) (modeled ILO estimate);345;4869
+Social: labor;Employment in agriculture, male (% of male employment) (modeled ILO estimate);345;4869
+Infrastructure: telecommunications;Individuals using the Internet (% of population);358;4856
+Agriculture;Surface area (sq. km);359;4855
+Trade: exports;Merchandise exports to high-income economies (% of total merchandise exports);360;4854
+Trade: exports;Merchandise exports by the reporting economy (current US$);360;4854
+Trade: exports;Merchandise exports by the reporting economy, residual (% of total merchandise exports);360;4854
+Environment: energy;Renewable energy consumption (% of total final energy consumption);362;4852
+National accounts: income;Mineral rents (% of GDP);368;4846
+National accounts: income;Forest rents (% of GDP);368;4846
+National accounts: income;Net primary income (Net income from abroad) (current LCU);369;4845
+National accounts: income;Adjusted savings: consumption of fixed capital (current US$);369;4845
+Trade: imports;Merchandise imports by the reporting economy (current US$);370;4844
+Trade: imports;Merchandise imports from high-income economies (% of total merchandise imports);370;4844
+National accounts: income;GNI, Atlas method (current US$);370;4844
+Trade: imports;Merchandise imports by the reporting economy, residual (% of total merchandise imports);370;4844
+National accounts: income;GNI per capita, Atlas method (current US$);371;4843
+National accounts: income;GNI, PPP (current international $);375;4839
+National accounts: income;GNI per capita, PPP (current international $);378;4836
+Social: health;Immunization, measles (% of children ages 12-23 months);379;4835
+Social: health;Immunization, DPT (% of children ages 12-23 months);379;4835
+National accounts: income;Net primary income (Net income from abroad) (current US$);379;4835
+Trade: imports;Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports);384;4830
+Trade: imports;Import value index (2000 = 100);385;4829
+Trade: exports;Export value index (2000 = 100);385;4829
+National accounts: income;Total natural resources rents (% of GDP);385;4829
+National accounts: income;Oil rents (% of GDP);385;4829
+Trade: imports;Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports);387;4827
+Trade: exports;Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports);390;4824
+National accounts: income;Natural gas rents (% of GDP);393;4821
+Environment: resources;Total fisheries production (metric tons);397;4817
+Social: migration;Refugee population by country or territory of origin;403;4811
+National accounts: income;Coal rents (% of GDP);405;4809
+Environment: resources;Capture fisheries production (metric tons);411;4803
+Trade: imports;Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports);414;4800
+Environment: general;Agricultural methane emissions (thousand metric tons of CO2 equivalent);432;4782
+Environment: general;Methane emissions in energy sector (thousand metric tons of CO2 equivalent);432;4782
+Environment: general;Methane emissions (kt of CO2 equivalent);432;4782
+Environment: general;Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent);432;4782
+Environment: general;Nitrous oxide emissions (thousand metric tons of CO2 equivalent);432;4782
+Environment: general;Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent);432;4782
+Environment: general;Total greenhouse gas emissions (kt of CO2 equivalent);433;4781
+Environment: general;CO2 emissions (kt);433;4781
+National accounts: value added;Agriculture, forestry, and fishing, value added (% of GDP);434;4780
+National accounts: value added;Agriculture, forestry, and fishing, value added (current LCU);434;4780
+Environment: general;CO2 emissions (metric tons per capita);436;4778
+National accounts: income;Adjusted savings: net forest depletion (current US$);439;4775
+Military statistics;Armed forces personnel, total;443;4771
+Trade: imports;Merchandise imports from economies in the Arab World (% of total merchandise imports);444;4770
+National accounts: value added;Agriculture, forestry, and fishing, value added (current US$);445;4769
+Agriculture;Livestock production index (2014-2016 = 100);446;4768
+Agriculture;Food production index (2014-2016 = 100);446;4768
+Agriculture;Crop production index (2014-2016 = 100);446;4768
+Military statistics;Armed forces personnel (% of total labor force);446;4768
+Agriculture;Agricultural land (sq. km);448;4766
+Agriculture;Agricultural land (% of land area);448;4766
+Trade: imports;Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports);452;4762
+Trade: exports;Merchandise exports to economies in the Arab World (% of total merchandise exports);454;4760
+Agriculture;Arable land (hectares);456;4758
+National accounts: expenditure;External balance on goods and services (current LCU);456;4758
+Agriculture;Arable land (% of land area);456;4758
+National accounts: expenditure;Exports of goods and services (current LCU);456;4758
+National accounts: expenditure;Imports of goods and services (current LCU);456;4758
+Trade: exports;Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports);456;4758
+Agriculture;Permanent cropland (% of land area);457;4757
+National accounts: income;Adjusted savings: particulate emission damage (current US$);457;4757
+Agriculture;Arable land (hectares per person);459;4755
+National accounts: expenditure;Imports of goods and services (current US$);467;4747
+National accounts: expenditure;External balance on goods and services (current US$);467;4747
+National accounts: expenditure;Exports of goods and services (current US$);467;4747
+National accounts: expenditure;Imports of goods and services (% of GDP);468;4746
+National accounts: expenditure;External balance on goods and services (% of GDP);468;4746
+National accounts: expenditure;Exports of goods and services (% of GDP);468;4746
+National accounts: expenditure;Trade (% of GDP);468;4746
+National accounts: income;Adjusted savings: mineral depletion (% of GNI);472;4742
+National accounts: income;Adjusted savings: consumption of fixed capital (% of GNI);473;4741
+National accounts: value added;Industry (including construction), value added (current LCU);474;4740
+National accounts: value added;Industry (including construction), value added (% of GDP);474;4740
+National accounts: value added;Industry (including construction), value added (current US$);485;4729
+Social: labor;GDP per person employed (constant 2017 PPP $);488;4726
+National accounts: income;Adjusted savings: energy depletion (% of GNI);489;4725
+Trade: imports;Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports);497;4717
+Trade: imports;Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports);501;4713
+National accounts: income;Adjusted savings: carbon dioxide damage (% of GNI);503;4711
+National accounts: expenditure;Final consumption expenditure (current LCU);514;4700
+National accounts: expenditure;Gross capital formation (current LCU);520;4694
+Trade: exports;Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports);521;4693
+National accounts: expenditure;Final consumption expenditure (current US$);525;4689
+National accounts: expenditure;Final consumption expenditure (% of GDP);526;4688
+National accounts: income;Gross domestic savings (% of GDP);526;4688
+National accounts: income;Gross domestic savings (current LCU);528;4686
+Trade: exports;Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports);530;4684
+National accounts: expenditure;Gross capital formation (current US$);531;4683
+National accounts: expenditure;Gross capital formation (% of GDP);532;4682
+Trade: imports;Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports);533;4681
+National accounts: income;Gross domestic savings (current US$);537;4677
+National accounts: value added;Services, value added (current LCU);541;4673
+National accounts: value added;Services, value added (% of GDP);541;4673
+National accounts: expenditure;General government final consumption expenditure (current LCU);541;4673
+Agriculture;Land under cereal production (hectares);542;4672
+Agriculture;Cereal production (metric tons);542;4672
+Agriculture;Cereal yield (kg per hectare);549;4665
+National accounts: expenditure;Households and NPISHs Final consumption expenditure (current LCU);552;4662
+National accounts: value added;Services, value added (current US$);552;4662
+National accounts: expenditure;General government final consumption expenditure (current US$);552;4662
+National accounts: expenditure;General government final consumption expenditure (% of GDP);553;4661
+National accounts: expenditure;Gross national expenditure (current LCU);554;4660
+Trade: exports;Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports);554;4660
+National accounts: income;Adjusted savings: particulate emission damage (% of GNI);556;4658
+National accounts: income;Adjusted savings: education expenditure (current US$);559;4655
+National accounts: income;Net secondary income (Net current transfers from abroad) (current LCU);562;4652
+National accounts: expenditure;Households and NPISHs Final consumption expenditure (current US$);564;4650
+Financial: prices;Consumer price index (2010 = 100);564;4650
+National accounts: expenditure;Households and NPISHs final consumption expenditure (% of GDP);565;4649
+National accounts: expenditure;Gross national expenditure (current US$);565;4649
+National accounts: expenditure;Gross national expenditure (% of GDP);566;4648
+National accounts: income;Net secondary income (Net current transfers from abroad) (current US$);570;4644
+National accounts: income;Discrepancy in expenditure estimate of GDP (current LCU);579;4635
+Social: migration;Refugee population by country or territory of asylum;579;4635
+National accounts: value added;Agriculture, forestry, and fishing, value added (constant LCU);588;4626
+Trade: exports;Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports);594;4620
+Environment: resources;Aquaculture production (metric tons);595;4619
+National accounts: expenditure;Gross fixed capital formation (current LCU);597;4617
+National accounts: expenditure;Households and NPISHs final consumption expenditure: linked series (current LCU);599;4615
+Prices: period average;PPP conversion factor, private consumption (LCU per international $);600;4614
+National accounts: expenditure;Gross fixed capital formation (current US$);607;4607
+National accounts: expenditure;Gross fixed capital formation (% of GDP);609;4605
+Financial: prices;Inflation, consumer prices (annual %);611;4603
+Prices: period average;Official exchange rate (LCU per US$, period average);627;4587
+National accounts: value added;Agriculture, forestry, and fishing, value added (constant 2015 US$);643;4571
+Military statistics;Military expenditure (current USD);647;4567
+National accounts: value added;Agriculture, forestry, and fishing, value added (annual % growth);655;4559
+Military statistics;Military expenditure (% of GDP);658;4556
+Trade: exports;Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports);659;4555
+National accounts: income;Adjusted savings: net forest depletion (% of GNI);671;4543
+Environment: general;CO2 emissions (kg per 2015 US$ of GDP);674;4540
+Financial: international liquidity;Total reserves minus gold (current US$);676;4538
+Financial: international liquidity;Total reserves (includes gold, current US$);676;4538
+Environment: general;CO2 emissions (kg per PPP $ of GDP);688;4526
+National accounts: income;Adjusted savings: natural resources depletion (% of GNI);688;4526
+National accounts: income;Adjusted net national income (current US$);689;4525
+National accounts: income;Adjusted net national income per capita (current US$);692;4522
+Financial: monetary survey;Net foreign assets (current LCU);701;4513
+National accounts: value added;Manufacturing, value added (% of GDP);702;4512
+Financial: monetary survey;Net domestic credit (current LCU);702;4512
+National accounts: value added;Manufacturing, value added (current LCU);702;4512
+National accounts: value added;Manufacturing, value added (current US$);709;4505
+Financial: deposit money banks;Domestic credit to private sector by banks (% of GDP);711;4503
+Balance of payments: imports, payments (credit);Foreign direct investment, net outflows (BoP, current US$);711;4503
+Financial: banking survey;Claims on central government, etc. (% GDP);726;4488
+Financial: monetary survey;Monetary Sector credit to private sector (% GDP);728;4486
+National accounts: expenditure;Changes in inventories (current LCU);734;4480
+Balance of payments: exports, receipts (debit);Personal remittances, received (current US$);740;4474
+Environment: general;CO2 emissions (kg per 2017 PPP $ of GDP);740;4474
+National accounts: expenditure;Changes in inventories (current US$);747;4467
+National accounts: income;Gross value added at basic prices (GVA) (current LCU);756;4458
+Balance of payments: imports, payments (credit);Foreign direct investment, net outflows (% of GDP);758;4456
+National accounts: income;Gross value added at basic prices (GVA) (current US$);767;4447
+Military statistics;Military expenditure (current LCU);767;4447
+Environment: general;CO2 emissions from gaseous fuel consumption (kt);772;4442
+Environment: general;CO2 emissions from liquid fuel consumption (kt);772;4442
+Environment: general;CO2 emissions from solid fuel consumption (kt);772;4442
+National accounts: value added;Industry (including construction), value added (constant LCU);779;4435
+Infrastructure: transportation;Air transport, passengers carried;784;4430
+Balance of payments: exports, receipts (debit);Personal remittances, received (% of GDP);785;4429
+Environment: energy;Renewable electricity output (% of total electricity output);786;4428
+Infrastructure: transportation;Air transport, registered carrier departures worldwide;787;4427
+Environment: general;Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent);803;4411
+Balance of payments: net;Net primary income (BoP, current US$);810;4404
+Balance of payments: imports, payments (credit);Primary income payments (BoP, current US$);810;4404
+National accounts: value added;Services, value added (constant LCU);811;4403
+Balance of payments: imports, payments (credit);Goods imports (BoP, current US$);812;4402
+Balance of payments: exports, receipts (debit);Goods exports (BoP, current US$);812;4402
+Balance of payments: imports, payments (credit);Imports of goods, services and primary income (BoP, current US$);812;4402
+Balance of payments: net;Net secondary income (BoP, current US$);812;4402
+Balance of payments: net;Net financial account (BoP, current US$);812;4402
+Balance of payments: exports, receipts (debit);Exports of goods and services (BoP, current US$);812;4402
+Balance of payments: imports, payments (credit);Service imports (BoP, current US$);812;4402
+Trade: imports;Commercial service imports (current US$);812;4402
+Balance of payments: net;Current account balance (BoP, current US$);812;4402
+Balance of payments: net;Net trade in goods (BoP, current US$);812;4402
+Balance of payments: imports, payments (credit);Imports of goods and services (BoP, current US$);812;4402
+Balance of payments: net;Net trade in goods and services (BoP, current US$);812;4402
+Balance of payments: exports, receipts (debit);Service exports (BoP, current US$);813;4401
+Balance of payments: net;Reserves and related items (BoP, current US$);813;4401
+Trade: exports;Commercial service exports (current US$);813;4401
+Balance of payments: net;Net errors and omissions (BoP, current US$);816;4398
+National accounts: expenditure;Exports of goods and services (constant LCU);824;4390
+National accounts: expenditure;Imports of goods and services (constant LCU);824;4390
+National accounts: value added;Industry (including construction), value added (constant 2015 US$);832;4382
+Environment: general;CO2 emissions from liquid fuel consumption (% of total);836;4378
+Environment: general;CO2 emissions from gaseous fuel consumption (% of total);836;4378
+Trade: exports;Export volume index (2000 = 100);836;4378
+Environment: general;CO2 emissions from solid fuel consumption (% of total);836;4378
+Balance of payments: net;Current account balance (% of GDP);845;4369
+Balance of payments: exports, receipts (debit);Primary income receipts (BoP, current US$);846;4368
+Balance of payments: exports, receipts (debit);Exports of goods, services and primary income (BoP, current US$);846;4368
+Balance of payments: gross;Trade in services (% of GDP);846;4368
+National accounts: value added;Industry (including construction), value added (annual % growth);849;4365
+National accounts: value added;Services, value added (constant 2015 US$);850;4364
+National accounts: income;Terms of trade adjustment (constant LCU);855;4359
+National accounts: income;Exports as a capacity to import (constant LCU);855;4359
+Environment: energy;Access to electricity, urban (% of urban population);858;4356
+National accounts: income;Taxes less subsidies on products (current LCU);858;4356
+National accounts: value added;Medium and high-tech manufacturing value added (% manufacturing value added);859;4355
+Trade: exports;Medium and high-tech exports (% manufactured exports);859;4355
+Trade: exports;Export unit value index (2000 = 100);860;4354
+Trade: imports;Computer, communications and other services (% of commercial service imports);864;4350
+Environment: energy;Access to electricity (% of population);864;4350
+Environment: energy;Energy intensity level of primary energy (MJ/$2011 PPP GDP);866;4348
+Trade: imports;Import volume index (2000 = 100);866;4348
+National accounts: income;Taxes less subsidies on products (current US$);868;4346
+National accounts: income;Gross domestic income (constant LCU);876;4338
+Trade: imports;Transport services (% of commercial service imports);878;4336
+Balance of payments: imports, payments (credit);Transport services (% of service imports, BoP);878;4336
+Balance of payments: imports, payments (credit);Communications, computer, etc. (% of service imports, BoP);881;4333
+National accounts: expenditure;Imports of goods and services (annual % growth);884;4330
+National accounts: expenditure;Exports of goods and services (annual % growth);884;4330
+Trade: exports;Computer, communications and other services (% of commercial service exports);884;4330
+Trade: terms of trade;Net barter terms of trade index (2000 = 100);886;4328
+Trade: imports;Import unit value index (2000 = 100);890;4324
+National accounts: value added;Services, value added (annual % growth);890;4324
+Balance of payments: net;Foreign direct investment, net (BoP, current US$);892;4322
+Balance of payments: exports, receipts (debit);Communications, computer, etc. (% of service exports, BoP);897;4317
+Infrastructure: transportation;Air transport, freight (million ton-km);897;4317
+Balance of payments: imports, payments (credit);Travel services (% of service imports, BoP);899;4315
+Trade: imports;Travel services (% of commercial service imports);899;4315
+Balance of payments: exports, receipts (debit);Secondary income receipts (BoP, current US$);900;4314
+Social: education;Primary education, pupils;908;4306
+National accounts: value added;Manufacturing, value added (constant LCU);922;4292
+National accounts: income;Gross value added at basic prices (GVA) (constant LCU);930;4284
+National accounts: expenditure;Households and NPISHs Final consumption expenditure (constant LCU);930;4284
+Trade: exports;Travel services (% of commercial service exports);931;4283
+Balance of payments: exports, receipts (debit);Travel services (% of service exports, BoP);931;4283
+National accounts: value added;Agriculture, forestry, and fishing, value added per worker (constant 2015 US$);933;4281
+National accounts: expenditure;Final consumption expenditure (constant LCU);938;4276
+National accounts: expenditure;Gross fixed capital formation (constant LCU);942;4272
+National accounts: expenditure;General government final consumption expenditure (constant LCU);949;4265
+Balance of payments: exports, receipts (debit);Transport services (% of service exports, BoP);949;4265
+Trade: exports;Transport services (% of commercial service exports);949;4265
+National accounts: expenditure;Imports of goods and services (constant 2015 US$);962;4252
+National accounts: expenditure;Exports of goods and services (constant 2015 US$);962;4252
+Agriculture;Fertilizer consumption (kilograms per hectare of arable land);966;4248
+National accounts: expenditure;Households and NPISHs Final consumption expenditure, PPP (current international $);969;4245
+National accounts: expenditure;Households and NPISHs Final consumption expenditure (annual % growth);993;4221
+National accounts: income;Gross value added at basic prices (GVA) (constant 2015 US$);994;4220
+Balance of payments: imports, payments (credit);Insurance and financial services (% of service imports, BoP);995;4219
+Trade: imports;Insurance and financial services (% of commercial service imports);995;4219
+National accounts: value added;Manufacturing, value added (annual % growth);999;4215
+National accounts: value added;Manufacturing, value added (constant 2015 US$);1002;4212
+National accounts: expenditure;Final consumption expenditure (annual % growth);1003;4211
+National accounts: expenditure;Gross fixed capital formation (annual % growth);1004;4210
+National accounts: expenditure;General government final consumption expenditure (annual % growth);1012;4202
+Financial: monetary survey;Broad money (current LCU);1020;4194
+National accounts: expenditure;Households and NPISHs Final consumption expenditure (constant 2015 US$);1033;4181
+National accounts: expenditure;Final consumption expenditure (constant 2015 US$);1038;4176
+National accounts: expenditure;Gross fixed capital formation (constant 2015 US$);1042;4172
+National accounts: expenditure;Households and NPISHs Final consumption expenditure per capita (constant 2015 US$);1045;4169
+Environment: energy;Access to electricity, rural (% of rural population);1046;4168
+Social: education;School enrollment, primary (% gross);1047;4167
+Financial: monetary survey;Broad money (% of GDP);1050;4164
+National accounts: expenditure;General government final consumption expenditure (constant 2015 US$);1050;4164
+Balance of payments: imports, payments (credit);Personal remittances, paid (current US$);1053;4161
+Financial: monetary survey;Broad money growth (annual %);1063;4151
+Financial: monetary survey;Claims on central government (annual growth as % of broad money);1064;4150
+Financial: monetary survey;Claims on private sector (annual growth as % of broad money);1066;4148
+National accounts: value added;Industry (including construction), value added per worker (constant 2015 US$);1082;4132
+Financial: international liquidity;Total reserves in months of imports;1084;4130
+National accounts: expenditure;Gross capital formation (constant LCU);1085;4129
+National accounts: value added;Services, value added per worker (constant 2015 US$);1095;4119
+National accounts: expenditure;Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $);1097;4117
+Military statistics;Military expenditure (% of general government expenditure);1097;4117
+Balance of payments: imports, payments (credit);Secondary income, other sectors, payments (BoP, current US$);1098;4116
+National accounts: expenditure;Gross national expenditure (constant LCU);1102;4112
+National accounts: expenditure;Households and NPISHs Final consumption expenditure per capita growth (annual %);1109;4105
+National accounts: expenditure;Gross national expenditure deflator (base year varies by country);1131;4083
+Social: education;School enrollment, primary, male (% gross);1136;4078
+Social: education;School enrollment, primary, female (% gross);1136;4078
+Social: education;School enrollment, primary (gross), gender parity index (GPI);1136;4078
+Social: health;Prevalence of HIV, total (% of population ages 15-49);1137;4077
+National accounts: income;Taxes less subsidies on products (constant LCU);1139;4075
+Environment: general;Population in urban agglomerations of more than 1 million;1147;4067
+National accounts: income;Gross savings (current LCU);1149;4065
+National accounts: income;Gross savings (% of GNI);1149;4065
+National accounts: income;Gross savings (current US$);1150;4064
+Environment: general;Population in urban agglomerations of more than 1 million (% of total population);1150;4064
+National accounts: expenditure;Gross capital formation (annual % growth);1152;4062
+National accounts: income;Gross savings (% of GDP);1154;4060
+Social: health;Prevalence of HIV, male (% ages 15-24);1168;4046
+Social: health;Prevalence of HIV, female (% ages 15-24);1168;4046
+Social: health;Incidence of HIV, all (per 1,000 uninfected population);1170;4044
+National accounts: expenditure;Gross capital formation (constant 2015 US$);1196;4018
+National accounts: expenditure;Gross national expenditure (constant 2015 US$);1200;4014
+Social: health;Adults (ages 15+) and children (ages 0-14) newly infected with HIV;1201;4013
+Social: health;Women's share of population ages 15+ living with HIV (%);1202;4012
+Trade: exports;Food exports (% of merchandise exports);1215;3999
+Trade: exports;Agricultural raw materials exports (% of merchandise exports);1219;3995
+Trade: exports;Manufactures exports (% of merchandise exports);1225;3989
+National accounts: income;Adjusted savings: gross savings (% of GNI);1225;3989
+National accounts: income;Adjusted savings: net national savings (current US$);1225;3989
+National accounts: income;Adjusted savings: net national savings (% of GNI);1225;3989
+Trade: exports;Ores and metals exports (% of merchandise exports);1228;3986
+Social: health;Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49);1232;3982
+Social: health;Adults (ages 15-49) newly infected with HIV;1232;3982
+Trade: imports;Fuel imports (% of merchandise imports);1234;3980
+Trade: imports;Manufactures imports (% of merchandise imports);1234;3980
+Trade: imports;Food imports (% of merchandise imports);1234;3980
+Debt: external;Net official development assistance and official aid received (constant 2018 US$);1235;3979
+Debt: external;Net official development assistance and official aid received (current US$);1235;3979
+Balance of payments: exports, receipts (debit);Grants, excluding technical cooperation (BoP, current US$);1237;3977
+Trade: imports;Ores and metals imports (% of merchandise imports);1237;3977
+Trade: imports;Agricultural raw materials imports (% of merchandise imports);1242;3972
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Total (current US$);1242;3972
+Social: education;Primary education, pupils (% female);1246;3968
+Balance of payments: exports, receipts (debit);Technical cooperation grants (BoP, current US$);1249;3965
+Balance of payments: exports, receipts (debit);Insurance and financial services (% of service exports, BoP);1254;3960
+Trade: exports;Insurance and financial services (% of commercial service exports);1254;3960
+National accounts: income;GNI (constant LCU);1262;3952
+National accounts: income;GNI per capita (constant LCU);1262;3952
+Social: health;Young people (ages 15-24) newly infected with HIV;1263;3951
+Social: health;Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24);1263;3951
+Financial: banking survey;Domestic credit to private sector (% of GDP);1276;3938
+Social: tourism;International tourism, expenditures for travel items (current US$);1276;3938
+Social: tourism;International tourism, receipts for travel items (current US$);1278;3936
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Germany (current US$);1281;3933
+Trade: exports;Fuel exports (% of merchandise exports);1282;3932
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, France (current US$);1291;3923
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Japan (current US$);1340;3874
+Financial: monetary survey;Broad money to total reserves ratio;1346;3868
+National accounts: income;GNI growth (annual %);1348;3866
+National accounts: income;GNI per capita growth (annual %);1348;3866
+National accounts: income;Adjusted net savings, excluding particulate emission damage (current US$);1349;3865
+National accounts: income;Adjusted net savings, excluding particulate emission damage (% of GNI);1349;3865
+National accounts: income;GNI (constant 2015 US$);1350;3864
+National accounts: income;GNI per capita (constant 2015 US$);1350;3864
+Balance of payments: exports, receipts (debit);Portfolio equity, net inflows (BoP, current US$);1367;3847
+National accounts: income;Adjusted net savings, including particulate emission damage (current US$);1382;3832
+National accounts: income;Adjusted net savings, including particulate emission damage (% of GNI);1382;3832
+National accounts: income;GNI, PPP (constant 2017 international $);1383;3831
+National accounts: income;GNI per capita, PPP (constant 2017 international $);1383;3831
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, European Union institutions (current US$);1413;3801
+Social: gender;Proportion of seats held by women in national parliaments (%);1433;3781
+Social: education;Secondary education, general pupils;1437;3777
+Debt: external;Net official flows from UN agencies, UNDP (current US$);1440;3774
+Balance of payments: net;Portfolio investment, net (BoP, current US$);1443;3771
+Social: tourism;International tourism, number of arrivals;1462;3752
+Environment: energy;Electricity production from oil, gas and coal sources (% of total);1488;3726
+Environment: energy;Electricity production from renewable sources, excluding hydroelectric (% of total);1488;3726
+Environment: energy;Electricity production from oil sources (% of total);1488;3726
+Environment: energy;Electricity production from renewable sources, excluding hydroelectric (kWh);1488;3726
+Environment: general;Methane emissions (% change from 1990);1488;3726
+Environment: energy;Electricity production from natural gas sources (% of total);1488;3726
+Environment: energy;Electricity production from hydroelectric sources (% of total);1488;3726
+Environment: general;Nitrous oxide emissions (% change from 1990);1488;3726
+Environment: energy;Electricity production from coal sources (% of total);1488;3726
+Debt: external;Net official development assistance received (constant 2018 US$);1491;3723
+Debt: external;Net official development assistance received (current US$);1491;3723
+Debt: external;Net ODA received per capita (current US$);1494;3720
+Balance of payments: exports, receipts (debit);ICT service exports (BoP, current US$);1500;3714
+Balance of payments: exports, receipts (debit);ICT service exports (% of service exports, BoP);1500;3714
+National accounts: income;Adjusted net national income per capita (constant 2015 US$);1510;3704
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, United States (current US$);1534;3680
+Social: education;Secondary education, pupils;1534;3680
+National accounts: income;Adjusted net national income (annual % growth);1535;3679
+National accounts: income;Adjusted net national income per capita (annual % growth);1535;3679
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Canada (current US$);1540;3674
+National accounts: income;Adjusted net national income (constant 2015 US$);1543;3671
+Social: education;Secondary education, general pupils (% female);1564;3650
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, United Kingdom (current US$);1566;3648
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Austria (current US$);1571;3643
+Environment: energy;Energy use (kg of oil equivalent per capita);1571;3643
+Environment: general;Other greenhouse gas emissions (% change from 1990);1576;3638
+Social: tourism;International tourism, expenditures (current US$);1580;3634
+Debt: external;Net official flows from UN agencies, UNFPA (current US$);1587;3627
+Environment: energy;Electricity production from nuclear sources (% of total);1589;3625
+Social: tourism;International tourism, receipts (current US$);1591;3623
+Environment: energy;Alternative and nuclear energy (% of total energy use);1595;3619
+Environment: energy;Energy imports, net (% of energy use);1595;3619
+Environment: energy;Combustible renewables and waste (% of total energy);1595;3619
+Social: education;Compulsory education, duration (years);1601;3613
+Environment: general;CO2 intensity (kg per kg of oil equivalent energy use);1608;3606
+Environment: energy;Electric power consumption (kWh per capita);1619;3595
+Social: health;Incidence of tuberculosis (per 100,000 people);1619;3595
+Environment: general;CO2 emissions from transport (% of total fuel combustion);1621;3593
+Environment: general;CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion);1621;3593
+Environment: general;CO2 emissions from manufacturing industries and construction (% of total fuel combustion);1621;3593
+Environment: general;CO2 emissions from electricity and heat production, total (% of total fuel combustion);1621;3593
+Environment: general;CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion);1621;3593
+Debt: external;Net official flows from UN agencies, UNICEF (current US$);1634;3580
+Social: education;Primary education, teachers;1638;3576
+Social: health;People using at least basic sanitation services (% of population);1639;3575
+Environment: energy;Fossil fuel energy consumption (% of total);1643;3571
+Environment: energy;Electric power transmission and distribution losses (% of output);1646;3568
+Social: health;People using at least basic drinking water services (% of population);1646;3568
+Social: education;School enrollment, secondary (% gross);1650;3564
+Social: health;Tuberculosis case detection rate (%, all forms);1658;3556
+Debt: external;Net ODA received (% of GNI);1658;3556
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Switzerland (current US$);1665;3549
+Social: health;People practicing open defecation (% of population);1666;3548
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Sweden (current US$);1674;3540
+Environment: general;Total greenhouse gas emissions (% change from 1990);1675;3539
+Trade: imports;Tariff rate, most favored nation, simple mean, manufactured products (%);1690;3524
+Trade: imports;Tariff rate, most favored nation, simple mean, all products (%);1690;3524
+Trade: imports;Tariff rate, most favored nation, simple mean, primary products (%);1690;3524
+Social: education;School enrollment, primary, private (% of total primary);1694;3520
+Trade: imports;Share of tariff lines with international peaks, all products (%);1697;3517
+Trade: imports;Share of tariff lines with specific rates, manufactured products (%);1697;3517
+Trade: imports;Share of tariff lines with international peaks, manufactured products (%);1697;3517
+Trade: imports;Share of tariff lines with specific rates, all products (%);1697;3517
+Trade: imports;Share of tariff lines with international peaks, primary products (%);1697;3517
+Trade: imports;Share of tariff lines with specific rates, primary products (%);1697;3517
+Trade: imports;Tariff rate, applied, weighted mean, primary products (%);1698;3516
+Trade: imports;Tariff rate, applied, simple mean, manufactured products (%);1698;3516
+Trade: imports;Tariff rate, applied, simple mean, primary products (%);1698;3516
+Trade: imports;Tariff rate, applied, weighted mean, all products (%);1698;3516
+Trade: imports;Tariff rate, applied, weighted mean, manufactured products (%);1698;3516
+Trade: imports;Tariff rate, most favored nation, weighted mean, all products (%);1698;3516
+Trade: imports;Tariff rate, applied, simple mean, all products (%);1698;3516
+Trade: imports;Tariff rate, most favored nation, weighted mean, primary products (%);1698;3516
+Trade: imports;Tariff rate, most favored nation, weighted mean, manufactured products (%);1698;3516
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Italy (current US$);1705;3509
+Social: education;School enrollment, preprimary (% gross);1713;3501
+Debt: external;IFC, private nonguaranteed (NFL, current US$);1719;3495
+Environment: energy;GDP per unit of energy use (PPP $ per kg of oil equivalent);1730;3484
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Norway (current US$);1738;3476
+Social: education;School enrollment, tertiary (% gross);1739;3475
+Military statistics;Arms imports (SIPRI trend indicator values);1745;3469
+Debt: external;Short-term debt (% of total external debt);1755;3459
+Social: tourism;International tourism, expenditures (% of total imports);1755;3459
+Intellectual property;Trademark applications, total;1765;3449
+Trade: imports;Merchandise imports from low- and middle-income economies within region (% of total merchandise imports);1766;3448
+Trade: exports;Merchandise exports to low- and middle-income economies within region (% of total merchandise exports);1768;3446
+Environment: energy;Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP);1777;3437
+Environment: energy;GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent);1777;3437
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Korea, Rep. (current US$);1783;3431
+Debt: external;External debt stocks, total (DOD, current US$);1786;3428
+Debt: external;External debt stocks, short-term (DOD, current US$);1788;3426
+Debt: external;Debt service on external debt, total (TDS, current US$);1792;3422
+Debt: external;External debt stocks, long-term (DOD, current US$);1794;3420
+Debt: external;External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$);1796;3418
+Balance of payments: net;Net capital account (BoP, current US$);1796;3418
+Social: tourism;International tourism, receipts (% of total exports);1816;3398
+Social: tourism;International tourism, expenditures for passenger transport items (current US$);1817;3397
+Social: health;Mortality caused by road traffic injury (per 100,000 population);1817;3397
+Social: health;Mortality rate attributed to unintentional poisoning, female (per 100,000 female population);1818;3396
+Social: health;Mortality rate attributed to unintentional poisoning (per 100,000 population);1818;3396
+Social: health;Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%);1818;3396
+Social: health;Suicide mortality rate, male (per 100,000 male population);1818;3396
+Social: health;Mortality rate attributed to unintentional poisoning, male (per 100,000 male population);1818;3396
+Social: health;Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%);1818;3396
+Social: health;Suicide mortality rate (per 100,000 population);1818;3396
+Social: health;Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%);1818;3396
+Social: health;Suicide mortality rate, female (per 100,000 female population);1818;3396
+Debt: external;PPG, official creditors (NFL, current US$);1820;3394
+Debt: external;IBRD loans and IDA credits (DOD, current US$);1827;3387
+Debt: external;Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$);1829;3385
+Debt: external;Net financial flows, multilateral (NFL, current US$);1832;3382
+Social: education;School enrollment, secondary, female (% gross);1844;3370
+Social: education;School enrollment, secondary (gross), gender parity index (GPI);1844;3370
+Debt: external;Multilateral debt service (TDS, current US$);1844;3370
+Social: education;School enrollment, secondary, male (% gross);1844;3370
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Belgium (current US$);1856;3358
+Social: health;Prevalence of anemia among children (% of children ages 6-59 months);1858;3356
+Social: health;Prevalence of anemia among non-pregnant women (% of women ages 15-49);1858;3356
+Social: health;Prevalence of anemia among pregnant women (%);1858;3356
+Social: health;Prevalence of anemia among women of reproductive age (% of women ages 15-49);1858;3356
+Environment: energy;Access to clean fuels and technologies for cooking (% of population);1864;3350
+Debt: external;Net financial flows, bilateral (NFL, current US$);1867;3347
+Debt: external;Use of IMF credit (DOD, current US$);1867;3347
+Debt: external;Multilateral debt service (% of public and publicly guaranteed debt service);1871;3343
+Financial: interest rates;Deposit interest rate (%);1873;3341
+Debt: external;External debt stocks (% of GNI);1874;3340
+Debt: external;Total debt service (% of GNI);1879;3335
+Social: education;Pupil-teacher ratio, primary;1882;3332
+Social: education;Primary education, teachers (% female);1882;3332
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Netherlands (current US$);1883;3331
+Debt: external;Public and publicly guaranteed debt service (% of GNI);1894;3320
+Social: education;School enrollment, preprimary, male (% gross);1906;3308
+Social: education;School enrollment, preprimary, female (% gross);1906;3308
+Social: health;Out-of-pocket expenditure per capita (current US$);1913;3301
+Social: health;Out-of-pocket expenditure (% of current health expenditure);1913;3301
+Social: health;Domestic general government health expenditure (% of GDP);1913;3301
+Social: health;Out-of-pocket expenditure per capita, PPP (current international $);1913;3301
+Social: health;Current health expenditure (% of GDP);1913;3301
+Social: labor;Unemployment, total (% of total labor force) (national estimate);1913;3301
+Social: health;Current health expenditure per capita (current US$);1913;3301
+Social: health;Domestic private health expenditure per capita (current US$);1913;3301
+Social: health;Domestic private health expenditure per capita, PPP (current international $);1913;3301
+Social: health;Domestic general government health expenditure per capita (current US$);1913;3301
+Social: health;Domestic private health expenditure (% of current health expenditure);1913;3301
+Social: health;Domestic general government health expenditure (% of current health expenditure);1913;3301
+Social: health;Domestic general government health expenditure per capita, PPP (current international $);1913;3301
+Social: health;Current health expenditure per capita, PPP (current international $);1913;3301
+Social: health;Domestic general government health expenditure (% of general government expenditure);1913;3301
+Social: health;People practicing open defecation, urban (% of urban population);1914;3300
+Social: health;People using at least basic sanitation services, urban (% of urban population);1914;3300
+Social: education;School enrollment, primary and secondary (gross), gender parity index (GPI);1914;3300
+Intellectual property;Scientific and technical journal articles;1915;3299
+Social: health;People using at least basic drinking water services, urban (% of urban population);1916;3298
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Spain (current US$);1919;3295
+Debt: external;IMF repurchases and charges (TDS, current US$);1920;3294
+Balance of payments: imports, payments (credit);Charges for the use of intellectual property, payments (BoP, current US$);1921;3293
+Balance of payments: exports, receipts (debit);Personal transfers, receipts (BoP, current US$);1922;3292
+Debt: external;Net ODA received (% of gross capital formation);1926;3288
+Social: education;Secondary education, pupils (% female);1934;3280
+Intellectual property;Trademark applications, direct resident;1935;3279
+Intellectual property;Trademark applications, direct nonresident;1956;3258
+Social: health;Tuberculosis treatment success rate (% of new cases);1957;3257
+Social: tourism;International tourism, receipts for passenger transport items (current US$);1957;3257
+Social: health;People using at least basic sanitation services, rural (% of rural population);1968;3246
+Environment: general;Agricultural nitrous oxide emissions (% of total);1972;3242
+Environment: general;Agricultural methane emissions (% of total);1972;3242
+Environment: general;Energy related methane emissions (% of total);1972;3242
+Environment: general;Nitrous oxide emissions in energy sector (% of total);1972;3242
+Social: health;People practicing open defecation, rural (% of rural population);1987;3227
+Social: health;People using at least basic drinking water services, rural (% of rural population);1992;3222
+Social: education;Gross intake ratio in first grade of primary education, total (% of relevant age group);1997;3217
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Finland (current US$);2003;3211
+Violence and conflict;Intentional homicides (per 100,000 people);2003;3211
+Social: education;Secondary education, vocational pupils;2013;3201
+Debt: external;Net financial flows, others (NFL, current US$);2021;3193
+Social: health;Immunization, HepB3 (% of one-year-old children);2021;3193
+Social: education;Preprimary education, duration (years);2025;3189
+Social: labor;Labor force participation rate, total (% of total population ages 15+) (national estimate);2030;3184
+Social: education;School enrollment, tertiary, female (% gross);2039;3175
+Social: education;School enrollment, tertiary, male (% gross);2039;3175
+Debt: external;Net ODA received (% of imports of goods, services and primary income);2053;3161
+Intellectual property;Patent applications, nonresidents;2076;3138
+Social: labor;Unemployment, female (% of female labor force) (national estimate);2081;3133
+Social: labor;Unemployment, male (% of male labor force) (national estimate);2081;3133
+Social: education;School enrollment, tertiary (gross), gender parity index (GPI);2084;3130
+Social: education;Primary completion rate, total (% of relevant age group);2087;3127
+Social: health;Lifetime risk of maternal death (1 in: rate varies by country);2090;3124
+Social: health;Lifetime risk of maternal death (%);2090;3124
+Social: health;Number of maternal deaths;2090;3124
+Social: health;Maternal mortality ratio (modeled estimate, per 100,000 live births);2090;3124
+Financial: interest rates;Lending interest rate (%);2091;3123
+National accounts: value added;Other manufacturing (% of value added in manufacturing);2112;3102
+Debt: external;Debt service (PPG and IMF only, % of exports of goods, services and primary income);2121;3093
+Social: health;Prevalence of overweight (modeled estimate, % of children under 5);2126;3088
+Social: labor;Ratio of female to male labor force participation rate (%) (national estimate);2126;3088
+Social: labor;Labor force participation rate, male (% of male population ages 15+) (national estimate);2126;3088
+Social: labor;Labor force participation rate, female (% of female population ages 15+) (national estimate);2126;3088
+Debt: external;Total debt service (% of exports of goods, services and primary income);2127;3087
+Social: education;Gross intake ratio in first grade of primary education, female (% of relevant age group);2135;3079
+Social: education;Gross intake ratio in first grade of primary education, male (% of relevant age group);2135;3079
+Social: education;Repeaters, primary, total (% of total enrollment);2136;3078
+Financial: interest rates;Real interest rate (%);2136;3078
+Social: health;Children (0-14) living with HIV;2139;3075
+National accounts: value added;Textiles and clothing (% of value added in manufacturing);2139;3075
+Trade: imports;Binding coverage, all products (%);2140;3074
+Trade: imports;Binding coverage, primary products (%);2140;3074
+Trade: imports;Binding coverage, manufactured products (%);2140;3074
+Social: health;Prevalence of stunting, height for age (modeled estimate, % of children under 5);2147;3067
+National accounts: value added;Food, beverages and tobacco (% of value added in manufacturing);2150;3064
+Intellectual property;Patent applications, residents;2151;3063
+Social: education;Children out of school (% of primary school age);2159;3055
+Trade: imports;Bound rate, simple mean, primary products (%);2161;3053
+Trade: imports;Bound rate, simple mean, manufactured products (%);2161;3053
+Trade: imports;Bound rate, simple mean, all products (%);2161;3053
+Social: health;Physicians (per 1,000 people);2172;3042
+Infrastructure: telecommunications;Fixed broadband subscriptions;2178;3036
+Infrastructure: telecommunications;Fixed broadband subscriptions (per 100 people);2184;3030
+Social: education;Government expenditure on education, total (% of GDP);2191;3023
+Government finance: IMF;Other taxes (current LCU);2192;3022
+Social: education;Children out of school, primary;2192;3022
+Government finance: IMF;Tax revenue (current LCU);2192;3022
+Government finance: IMF;Taxes on international trade (current LCU);2194;3020
+Government finance: IMF;Taxes on income, profits and capital gains (current LCU);2194;3020
+Government finance: IMF;Taxes on income, profits and capital gains (% of total taxes);2195;3019
+Government finance: IMF;Social contributions (current LCU);2213;3001
+Government finance: IMF;Tax revenue (% of GDP);2213;3001
+Trade: imports;ICT goods imports (% total goods imports);2215;2999
+Social: labor;Employment to population ratio, 15+, total (%) (national estimate);2216;2998
+Government finance: IMF;Taxes on goods and services (current LCU);2217;2997
+Government finance: IMF;Revenue, excluding grants (current LCU);2221;2993
+Government finance: IMF;Other taxes (% of revenue);2225;2989
+Government finance: IMF;Taxes on income, profits and capital gains (% of revenue);2227;2987
+Government finance: IMF;Taxes on international trade (% of revenue);2227;2987
+Social: population;Sex ratio at birth (male births per female births);2229;2985
+Social: health;Children (ages 0-14) newly infected with HIV;2232;2982
+Debt: external;Short-term debt (% of total reserves);2236;2978
+Financial: international liquidity;Total reserves (% of total external debt);2236;2978
+Social: education;Secondary education, vocational pupils (% female);2240;2974
+Social: education;Over-age students, primary (% of enrollment);2241;2973
+Social: education;Primary completion rate, female (% of relevant age group);2242;2972
+Social: education;Primary completion rate, male (% of relevant age group);2242;2972
+Government finance: IMF;Revenue, excluding grants (% of GDP);2242;2972
+Debt: external;Short-term debt (% of exports of goods, services and primary income);2245;2969
+Government finance: IMF;Social contributions (% of revenue);2245;2969
+Government finance: IMF;Taxes on goods and services (% of revenue);2250;2964
+Debt: external;Public and publicly guaranteed debt service (% of exports of goods, services and primary income);2252;2962
+Debt: external;Net financial flows, IDA (NFL, current US$);2252;2962
+Social: health;External health expenditure per capita, PPP (current international $);2256;2958
+Social: health;External health expenditure per capita (current US$);2256;2958
+Social: health;External health expenditure (% of current health expenditure);2256;2958
+Social: nutrition;Prevalence of undernourishment (% of population);2257;2957
+Trade: exports;ICT goods exports (% of total goods exports);2277;2937
+Government finance: IMF;Customs and other import duties (current LCU);2278;2936
+Government finance: IMF;Taxes on exports (current LCU);2278;2936
+Government finance: IMF;Compensation of employees (current LCU);2279;2935
+National accounts: value added;Chemicals (% of value added in manufacturing);2280;2934
+Government finance: IMF;Customs and other import duties (% of tax revenue);2281;2933
+Debt: external;PPG, private creditors (NFL, current US$);2281;2933
+Government finance: IMF;Taxes on exports (% of tax revenue);2281;2933
+Government finance: IMF;Interest payments (current LCU);2285;2929
+Social: health;Newborns protected against tetanus (%);2286;2928
+Social: education;School enrollment, primary (% net);2296;2918
+Social: education;Repeaters, primary, male (% of male enrollment);2300;2914
+Social: education;Repeaters, primary, female (% of female enrollment);2300;2914
+National accounts: value added;Machinery and transport equipment (% of value added in manufacturing);2306;2908
+Government finance: IMF;Goods and services expense (current LCU);2309;2905
+Government finance: IMF;Expense (current LCU);2309;2905
+Government finance: IMF;Interest payments (% of revenue);2310;2904
+Financial: interest rates;Interest rate spread (lending rate minus deposit rate, %);2321;2893
+Social: labor;Employment to population ratio, 15+, female (%) (national estimate);2322;2892
+Social: labor;Employment to population ratio, 15+, male (%) (national estimate);2325;2889
+Government finance: IMF;Expense (% of GDP);2327;2887
+Social: education;Over-age students, primary, male (% of male enrollment);2328;2886
+Social: education;Over-age students, primary, female (% of female enrollment);2331;2883
+Government finance: IMF;Compensation of employees (% of expense);2332;2882
+National accounts: expenditure;Changes in inventories (constant LCU);2338;2876
+Government finance: IMF;Net lending (+) / net borrowing (-) (current LCU);2339;2875
+Social: health;Antiretroviral therapy coverage (% of people living with HIV);2354;2860
+Government finance: IMF;Net lending (+) / net borrowing (-) (% of GDP);2355;2859
+Debt: external;Net official flows from UN agencies, IFAD (current US$);2355;2859
+Government finance: IMF;Interest payments (% of expense);2355;2859
+Government finance: IMF;Goods and services expense (% of expense);2362;2852
+Government finance: IMF;Taxes on goods and services (% value added of industry and services);2369;2845
+Index quality assessment;Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100);2370;2844
+Social: labor;Labor force participation rate for ages 15-24, total (%) (national estimate);2373;2841
+Social: health;Hospital beds (per 1,000 people);2376;2838
+Social: labor;Labor force participation rate for ages 15-24, male (%) (national estimate);2384;2830
+Social: labor;Labor force participation rate for ages 15-24, female (%) (national estimate);2384;2830
+Debt: aid flows from DAC;Net bilateral aid flows from DAC donors, Denmark (current US$);2398;2816
+Government finance: IMF;Subsidies and other transfers (current LCU);2401;2813
+Social: education;Government expenditure on education, total (% of government expenditure);2408;2806
+Social: education;Adjusted net enrollment rate, primary (% of primary school age children);2409;2805
+Government finance: IMF;Subsidies and other transfers (% of expense);2433;2781
+Government finance: IMF;Other expense (current LCU);2436;2778
