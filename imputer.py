@@ -55,7 +55,7 @@ def interpolate_all(df):
     return df
 
 
-def iterative_imputer_1(df):
+def iterative_imputer1(df):
     col = df.columns
     idx = df.index
 
@@ -65,7 +65,7 @@ def iterative_imputer_1(df):
     return df
 
 
-def iterative_imputer_2(df):
+def iterative_imputer2(df):
     df = df.unstack().T
     col = df.columns
     idx = df.index
@@ -80,7 +80,7 @@ def iterative_imputer_2(df):
     return df
 
 
-def iterative_imputer_3(df):
+def iterative_imputer3(df):
     df = df.reset_index()
     df = df.set_index(['Indicator Name', 'Country Name'])
     df = df.unstack().T
@@ -100,21 +100,50 @@ def iterative_imputer_3(df):
     return df
 
 
-def mice_imputer(df):
+def mice_imputer(df, verbose=2):
     n_imputations = 12
     dfs = []
     col = df.columns
     idx = df.index
 
     for i in range(n_imputations):
-        print(f'Imputation round {i}')
-        iter_imp = IterativeImputer(random_state=i, sample_posterior=True, verbose=2)
+        print(f'Imputation round {i+1}/{n_imputations}')
+        iter_imp = IterativeImputer(random_state=i, sample_posterior=True, verbose=verbose)
         df_temp = iter_imp.fit_transform(df)
         dfs.append(df_temp)
 
     df = np.mean(np.array(dfs), axis=0)
     df = pd.DataFrame(df, columns=col, index=idx)
     return df
+
+
+def mice_imputer2(df, detailed=False, verbose=2):
+    n_imputations = 5
+    dfs = []
+
+    df = df.reset_index()
+    df = df.set_index(['Indicator Name', 'Country Name'])
+    df = df.unstack().T
+
+    col = df.columns
+    idx = df.index
+
+    for i in range(n_imputations):
+        print(f'Imputation round {i + 1}/{n_imputations}')
+        iter_imp = IterativeImputer(random_state=i + 200, sample_posterior=True, verbose=verbose)
+        df_temp = iter_imp.fit_transform(df)
+        dfs.append(df_temp)
+
+    df = np.mean(np.array(dfs), axis=0)
+    df = pd.DataFrame(df, columns=col, index=idx)
+    df = df.unstack().T
+    df = df.reset_index()
+    df = df.set_index(['Country Name', 'Indicator Name'])
+    df = df.sort_index(level=['Country Name', 'Indicator Name'])
+    if detailed:
+        return dfs, df
+    else:
+        return df
 
 
 def knn_imputer1(df):
