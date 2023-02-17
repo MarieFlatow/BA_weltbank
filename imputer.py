@@ -5,7 +5,7 @@ from sklearn.experimental import enable_iterative_imputer
 from sklearn.impute import IterativeImputer, KNNImputer
 
 def impute_backfill(df):
-    df = df.fillna(method='bfill', limit=3)
+    df = df.fillna(method='bfill', limit=3, axis=1)
     return df
 
 
@@ -46,12 +46,12 @@ def impute_yearly_means_per_region(df):
 
 
 def interpolate3(df):
-    df = df.interpolate(limit=3)
+    df = df.interpolate(limit=3, axis=1)
     return df
 
 
 def interpolate_all(df):
-    df = df.interpolate()
+    df = df.interpolate(axis=1)
     return df
 
 
