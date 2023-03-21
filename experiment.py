@@ -5,11 +5,22 @@ import math
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score, mean_squared_error
 
-def reset_base():
+def reset_base(return_scaler=False):
     base = pd.read_csv('additional_data/base.csv')
     base.set_index(['Country Name', 'Indicator Name'], inplace=True)
     base = base.sort_index(level=['Country Name', 'Indicator Name'])
-    return base
+    col = base.columns
+    idx = base.index
+
+    #scaling data
+    scaler = StandardScaler().fit(base)
+    base = scaler.transform(base)
+    base = pd.DataFrame(base,columns=col, index=idx)
+
+    if return_scaler:
+        return base, scaler
+    else:
+        return base
 
 
 base = reset_base()
@@ -43,14 +54,9 @@ def reset_train(cords):
 
 
 def evaluate(df, t, cords):
-    # scaling original data and imputed data
-    train = reset_train(cords)
-    scaler = StandardScaler().fit(train)  # fitting on train?
-    norm_base = pd.DataFrame(scaler.transform(base))
-    df = pd.DataFrame(scaler.transform(df))
 
     # getting imputed values for simulated NaNs and true value
-    res = pd.DataFrame({'y_true': [norm_base.iloc[cords[0][i], cords[1][i]] for i in cords.index],
+    res = pd.DataFrame({'y_true': [base.iloc[cords[0][i], cords[1][i]] for i in cords.index],
                         'y_pred': [df.iloc[cords[0][i], cords[1][i]] for i in cords.index]
                         })
     res = res.dropna()
