@@ -14,9 +14,22 @@ def reset_base(scaled=True, return_scaler=False):
 
     # scaling data
     if scaled:
+        base = base.reset_index()
+        base = base.set_index(['Indicator Name', 'Country Name'])
+        base = base.unstack().T
+
+        col = base.columns
+        idx = base.index
+
         scaler = StandardScaler().fit(base)
         base = scaler.transform(base)
-        base = pd.DataFrame(base, columns=col, index=idx)
+
+        base = base.DataFrame(base, columns=col, index=idx)
+        base = base.unstack().T
+        base = base.reset_index()
+        base = base.set_index(['Country Name', 'Indicator Name'])
+        base = base.sort_index(level=['Country Name', 'Indicator Name'])
+
 
     if return_scaler:
         return base, scaler
@@ -76,4 +89,22 @@ def evaluate(df, t, cords):
     print('')
 
     return [r2, rmse, still_missing, t]
+
+def rescale(df, scaler):
+    df = df.reset_index()
+    df = df.set_index(['Indicator Name', 'Country Name'])
+    df = df.unstack().T
+
+    col = df.columns
+    idx = df.index
+
+    df = scaler.inverse_transform(df)
+
+    df = pd.DataFrame(df, columns=col, index=idx)
+    df = df.unstack().T
+    df = df.reset_index()
+    df = df.set_index(['Country Name', 'Indicator Name'])
+    df = df.sort_index(level=['Country Name', 'Indicator Name'])
+
+    return df
 
