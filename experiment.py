@@ -5,17 +5,18 @@ import math
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score, mean_squared_error
 
-def reset_base(return_scaler=False):
+def reset_base(scaled=True, return_scaler=False):
     base = pd.read_csv('additional_data/base.csv')
     base.set_index(['Country Name', 'Indicator Name'], inplace=True)
     base = base.sort_index(level=['Country Name', 'Indicator Name'])
     col = base.columns
     idx = base.index
 
-    #scaling data
-    scaler = StandardScaler().fit(base)
-    base = scaler.transform(base)
-    base = pd.DataFrame(base,columns=col, index=idx)
+    # scaling data
+    if scaled:
+        scaler = StandardScaler().fit(base)
+        base = scaler.transform(base)
+        base = pd.DataFrame(base, columns=col, index=idx)
 
     if return_scaler:
         return base, scaler
@@ -46,8 +47,13 @@ def get_cords(frac, rnd_state=999):
     return cords
 
 
-def reset_train(cords):
-    train = reset_base()
+def reset_train(cords, scaled=True):
+    if scaled:
+        train = reset_base(scaled=True)
+    else:
+        train = reset_base(scaled=False)
+
+
     for i in cords.index:
         train.iloc[cords[0][i], cords[1][i]] = None
     return train
