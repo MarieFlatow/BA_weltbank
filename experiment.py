@@ -24,7 +24,7 @@ def reset_base(scaled=True, return_scaler=False):
         scaler = StandardScaler().fit(base)
         base = scaler.transform(base)
 
-        base = base.DataFrame(base, columns=col, index=idx)
+        base = pd.DataFrame(base, columns=col, index=idx)
         base = base.unstack().T
         base = base.reset_index()
         base = base.set_index(['Country Name', 'Indicator Name'])
