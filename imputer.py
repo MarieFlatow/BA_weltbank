@@ -146,11 +146,11 @@ def mice_imputer2(df, detailed=False, verbose=2):
         return df
 
 
-def knn_imputer1(df):
+def knn_imputer1(df, n=2):
     col = df.columns
     idx = df.index
 
-    knn_imp = KNNImputer(n_neighbors=2)
+    knn_imp = KNNImputer(n_neighbors=n)
     df = knn_imp.fit_transform(df)
     df = pd.DataFrame(df, columns=col, index=idx)
     return df

@@ -108,3 +108,26 @@ def rescale(df, scaler):
 
     return df
 
+def load_imputed_sets(folder):
+    backfill = pd.read_csv(f'additional_data/imputed_sets/{folder}/backfill.csv')
+    yearly_mean = pd.read_csv(f'additional_data/imputed_sets/{folder}/Yearly Mean.csv')
+    overall_mean = pd.read_csv(f'additional_data/imputed_sets/{folder}/Overall Mean.csv')
+    regional_mean = pd.read_csv(f'additional_data/imputed_sets/{folder}/Yearly Mean per Region.csv')
+    interpolation_all = pd.read_csv(f'additional_data/imputed_sets/{folder}/Interpolate all.csv')
+    interpolation_3 = pd.read_csv(f'additional_data/imputed_sets/{folder}/Interpolate 3.csv')
+    ice1 = pd.read_csv(f'additional_data/imputed_sets/{folder}/ICE 1.csv')
+    ice2 = pd.read_csv(f'additional_data/imputed_sets/{folder}/ICE 2.csv')
+    ice3 = pd.read_csv(f'additional_data/imputed_sets/{folder}/ICE 3.csv')
+    mice1 = pd.read_csv(f'additional_data/imputed_sets/{folder}/MICE 1.csv')
+    mice2 = pd.read_csv(f'additional_data/imputed_sets/{folder}/MICE 2.csv')
+    knn1 = pd.read_csv(f'additional_data/imputed_sets/{folder}/KNN 1.csv')
+    knn2 = pd.read_csv(f'additional_data/imputed_sets/{folder}/KNN 2.csv')
+
+    sets = { 'Overall Mean': overall_mean, 'Yearly Mean': yearly_mean, 
+            'Yearly Mean per Region': regional_mean, 'Backfill': backfill,
+            'Interpolate': interpolation_all,
+            'MICE 1': mice1, 'MICE 2': mice2,
+            'KNN 1': knn1, 'KNN 2': knn2
+            }
+    return sets
+
