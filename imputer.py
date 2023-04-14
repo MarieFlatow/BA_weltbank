@@ -146,7 +146,7 @@ def mice_imputer2(df, detailed=False, verbose=2):
         return df
 
 
-def knn_imputer1(df, n=2):
+def knn_imputer1(df, n=16):
     col = df.columns
     idx = df.index
 
@@ -156,7 +156,7 @@ def knn_imputer1(df, n=2):
     return df
 
 
-def knn_imputer2(df, n=4):
+def knn_imputer2(df, n=3):
     df = df.reset_index()
     df = df.set_index(['Indicator Name', 'Country Name'])
     df = df.unstack().T
